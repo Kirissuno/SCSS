@@ -1,0 +1,33 @@
+header {
+  text-align: center;
+  background-color: white;
+  height: 75px; }
+  @media all and (min-width: 768px) {
+    header {
+      height: 100px; } }
+  @media all and (min-width: 1280px) {
+    header {
+      height: 110px; } }
+
+#principal {
+  min-height: 55%;
+  height: 55%;
+  text-align: center;
+  background-color: lightgray; }
+
+#secundaria {
+  min-height: 33%;
+  height: 33%;
+  text-align: center;
+  background-color: #bdbdbd; }
+
+button {
+  background-color: red;
+  border-radius: 5px;
+  height: 45px; }
+
+* {
+  margin: 0px;
+  height: 100%; }
+
+/*# sourceMappingURL=style.css.map */

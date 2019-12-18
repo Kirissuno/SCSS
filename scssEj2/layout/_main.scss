@@ -1,0 +1,15 @@
+@import 'core/variables';
+
+#principal{
+    min-height: $tamanoSeccionPrincipal;
+    height: $tamanoSeccionPrincipal;
+    text-align: $textoCentrado;
+    background-color: $mainPrincipalBGColor;
+}
+
+#secundaria{
+    min-height: $tamanoSeccionSecundaria;
+    height: $tamanoSeccionSecundaria;
+    text-align: $textoCentrado;
+    background-color: $mainSecundariaBGColor;
+}

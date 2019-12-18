@@ -1,0 +1,7 @@
+@import 'core/variables';
+
+button{
+    background-color: $btnColor;
+    border-radius: $btnRadio;
+    height: $btnAltura;
+}
